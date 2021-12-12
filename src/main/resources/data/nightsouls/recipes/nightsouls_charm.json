@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " N ",
+    "NTN",
+    " N " 
+  ],
+  "key": {
+  
+    "T": {
+      "item": "minecraft:totem_of_undying"
+    },
+    
+    "N": {
+      "item": "nightsouls:nightsouls_essence"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:nightsouls_charm"
+  }
+}

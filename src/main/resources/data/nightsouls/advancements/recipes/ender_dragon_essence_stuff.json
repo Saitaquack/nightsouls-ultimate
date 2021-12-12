@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "nightsouls:dragon_sword",
+      "nightsouls:dragon_helmet",
+      "nightsouls:dragon_chestplate",
+      "nightsouls:dragon_leggings",
+      "nightsouls:dragon_boots"
+    ]
+  },
+  "criteria": {
+    "has_ender_dragon_essence": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:ender_dragon_essence"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_ender_dragon_essence",
+    ]
+  ]
+}

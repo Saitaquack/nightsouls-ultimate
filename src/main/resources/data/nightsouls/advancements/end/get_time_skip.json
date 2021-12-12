@@ -1,0 +1,35 @@
+{
+  "parent": "nightsouls:end/get_true_night_soul",
+  "display": {
+    "icon": {
+      "item": "nightsouls:basti_time_clock"
+    },
+    "title": {
+      "translate": "advancements.end.get_time_skip.title"
+    },
+    "description": {
+      "translate": "advancements.end.get_time_skip.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "basti_time_clock": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:basti_time_clock"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "basti_time_clock"
+    ]
+  ]
+}

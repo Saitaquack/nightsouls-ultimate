@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P P",
+    "TAT",
+    "OCO"
+  ],
+  "key": {
+  
+    "A": {
+      "item": "nightsouls:cranite_chestplate"
+    },
+    
+    "C": {
+      "item": "nightsouls:ultimate_cranite_ingot"
+    },
+    
+    "P": {
+      "item": "nightsouls:white_power_moon"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    },
+    
+    "O": {
+      "item": "nightsouls:heavenstone"
+    }
+  },
+  "result": {
+    "item": "nightsouls:hallowed_paladin_chestplate"
+  }
+}

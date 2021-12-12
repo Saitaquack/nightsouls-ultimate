@@ -1,0 +1,35 @@
+{
+  "parent": "nightsouls:adventure/get_music_disc",
+  "display": {
+    "icon": {
+      "item": "nightsouls:nightsouls_charm"
+    },
+    "title": {
+      "translate": "advancements.adventure.get_nightsouls_charm.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.get_nightsouls_charm.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  }, 
+  "criteria": {
+    "nightsouls_charm": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:nightsouls_charm"
+          }
+        ]
+      }
+    } 
+  },
+  "requirements": [
+    [
+      "nightsouls_charm"
+    ]
+  ]
+}

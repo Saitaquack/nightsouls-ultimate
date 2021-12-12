@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item": "nightsouls:blank_music_disc"},
+    {"item": "nightsouls:super_star"},
+    {"item": "minecraft:iron_block"}
+  ],
+  
+  "result": {
+    "item": "nightsouls:jotaro_music_disc"
+  }
+
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NSM",
+    "PQ ",
+    "NSM" 
+  ],
+  "key": {
+    "N": {
+      "item": "nightsouls:night_soul"
+    },
+    
+    "S": {
+      "item": "nightsouls:saitastone_ingot"
+    },
+    
+    "M": {
+      "item": "nightsouls:miizealite_ingot"
+    },
+    
+    "P": {
+      "item": "nightsouls:pure_saitastone_ingot"
+    },
+    
+    "Q": {
+      "item": "nightsouls:pure_miizealite_ingot"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:moon_charm"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "nightsouls:true_night_soul",
+      "nightsouls:saitastone_seeds",
+      "nightsouls:miizealite_seeds",
+      "nightsouls:cranite_seeds",
+      "nightsouls:bastirite_seeds",
+      "nightsouls:basti_time_clock",
+      "nightsouls:sound_barrier",
+      "nightsouls:nano_boost",
+      "nightsouls:primal_rage",
+      "nightsouls:golden_reinhardt_hammer",
+      "nightsouls:lennon_wrath",
+      "nightsouls:rumpaquack",
+      "nightsouls:fractal_blade",
+      "nightsouls:absolute_saitastone_ingot",
+      "nightsouls:calamitous_miizealite_ingot",
+      "nightsouls:ultimate_cranite_ingot",
+      "nightsouls:exponential_bastirite_ingot",
+      "nightsouls:elytra",
+      "nightsouls:all_seeing_orb"
+    ]
+  },
+  "criteria": {
+    "has_true_night_soul": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:true_night_soul"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_true_night_soul",
+    ]
+  ]
+}

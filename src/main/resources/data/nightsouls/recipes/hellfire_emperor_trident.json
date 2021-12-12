@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PMP",
+    "TRT",
+    "IMI"
+  ],
+  "key": {
+  
+    "R": {
+      "item": "nightsouls:rumpaquack"
+    },
+    
+    "M": {
+      "item": "nightsouls:calamitous_miizealite_ingot"
+    },
+    
+    "P": {
+      "item": "nightsouls:purple_power_moon"
+    },
+    
+    "I": {
+      "item": "nightsouls:hellstone"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    }
+  },
+  "result": {
+    "item": "nightsouls:hellfire_emperor_trident"
+  }
+}

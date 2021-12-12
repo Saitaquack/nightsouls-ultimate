@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P P",
+    "TAT",
+    "OSO"
+  ],
+  "key": {
+  
+    "A": {
+      "item": "nightsouls:saitastone_boots"
+    },
+    
+    "S": {
+      "item": "nightsouls:absolute_saitastone_ingot"
+    },
+    
+    "P": {
+      "item": "nightsouls:red_power_moon"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    },
+    
+    "O": {
+      "item": "nightsouls:spacestone"
+    }
+  },
+  "result": {
+    "item": "nightsouls:milky_way_boots"
+  }
+}

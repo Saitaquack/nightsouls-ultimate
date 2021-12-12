@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "nightsouls:saitastone_ingot",
+    "nightsouls:miizealite_ingot",
+    "nightsouls:cranite_ingot",
+    "nightsouls:bastirite_ingot",
+    "nightsouls:primium_ingot",
+    "nightsouls:rowequite_ingot",
+    "nightsouls:therenite_ingot"
+  ]
+}

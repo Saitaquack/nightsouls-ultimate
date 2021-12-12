@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NMN"
+  ],
+  "key": {
+  
+    "N": {
+      "item": "nightsouls:nightsouls_essence"
+    },
+    
+    "M": {
+      "item": "nightsouls:miizealite_bow"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:nightsouls_bow"
+  }
+}

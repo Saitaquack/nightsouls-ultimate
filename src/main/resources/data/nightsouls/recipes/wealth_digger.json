@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BOB",
+    "NDN",
+    "SVS"
+  ],
+  "key": {
+    "N": {
+      "item": "nightsouls:night_soul"
+    },
+    
+    "B": {
+      "item": "nightsouls:pure_bastirite_ingot"
+    },
+    
+    "S": {
+      "item": "nightsouls:pure_saitastone_ingot"
+    },
+    
+    "V": {
+      "item": "nightsouls:bastirite_pickaxe"
+    },
+    
+    "D": {
+      "item": "nightsouls:saitastone_pickaxe"
+    },
+    
+     "O": {
+      "item": "minecraft:diamond_block"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:wealth_digger"
+  }
+}

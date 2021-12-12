@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "nightsouls:miizealite_ingot_from_power_moon"
+    ]
+  },
+  "criteria": {
+    "has_purple_power_moon": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:purple_power_moon"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_purple_power_moon",
+    ]
+  ]
+}

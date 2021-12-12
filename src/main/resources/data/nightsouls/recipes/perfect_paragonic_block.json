@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  
+  "ingredients": [
+  
+    {"item": "nightsouls:paragonic_block"},
+    {"item": "nightsouls:true_night_soul"},
+    {"item": "nightsouls:nightsouls_charm"},
+    {"item": "nightsouls:super_nightsouls_emerald_block"}
+    
+  ],
+  
+  "result": {
+    "item": "nightsouls:perfect_paragonic_block"
+  }
+}

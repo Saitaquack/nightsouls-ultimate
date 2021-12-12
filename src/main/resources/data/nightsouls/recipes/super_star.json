@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GDG",
+    "SBS",
+    "GDG" 
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    
+    "S": {
+      "item": "nightsouls:saitastone_ingot"
+    },
+    
+    "B": {
+      "item": "minecraft:gold_block"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:super_star"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "nightsouls:nightsouls_helmet",
+      "nightsouls:nightsouls_chestplate",
+      "nightsouls:nightsouls_leggings",
+      "nightsouls:nightsouls_boots",
+      "nightsouls:nightsouls_charm",
+      "nightsouls:nightsouls_bow",
+      "playertrackingcompass:tracking_compass"
+    ]
+  },
+  "criteria": {
+    "has_nightsouls_essence": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:nightsouls_essence"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_nightsouls_essence",
+    ]
+  ]
+}

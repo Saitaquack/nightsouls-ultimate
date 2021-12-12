@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MVM",
+    "VBV",
+    "MVM"
+  ],
+  "key": {
+  
+    "B": {
+      "item": "nightsouls:bloody_knife"
+    },
+    
+    "V": {
+      "item": "nightsouls:villager_blood"
+    },
+    
+    "M": {
+      "item": "nightsouls:miizealite_ingot"
+    }
+  },
+  "result": {
+    "item": "nightsouls:jeff_knife"
+  }
+}

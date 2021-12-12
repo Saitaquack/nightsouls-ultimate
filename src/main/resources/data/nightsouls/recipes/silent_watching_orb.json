@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NMN",
+    "SPS",
+    "NMN" 
+  ],
+  "key": {
+  
+    "P": {
+      "item": "minecraft:ender_pearl"
+    },
+    
+    "S": {
+      "item": "nightsouls:saitastone_ingot"
+    },
+    
+    "M": {
+      "item": "nightsouls:miizealite_ingot"
+    },
+    
+    "N": {
+      "item": "nightsouls:night_soul"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:silent_watching_orb"
+  }
+}

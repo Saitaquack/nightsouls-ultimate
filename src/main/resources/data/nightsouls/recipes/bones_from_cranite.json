@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "C",
+    "C" 
+  ],
+  "key": {
+  
+    "C": {
+      "item": "nightsouls:cranite_ingot"
+    }
+    
+  },
+  "result": {
+    "item": "minecraft:bone",
+    "count": 24
+  }
+}

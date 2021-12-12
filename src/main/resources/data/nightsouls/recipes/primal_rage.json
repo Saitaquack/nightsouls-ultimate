@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BTB",
+    "BOB",
+    "BTB" 
+  ],
+  "key": {
+  
+    "O": {
+      "item": "nightsouls:take_a_breather"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    },
+    
+    "B": {
+      "item": "nightsouls:saitastone_block"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:primal_rage"
+  }
+}

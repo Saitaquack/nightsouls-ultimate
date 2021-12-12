@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P P",
+    "TAT",
+    "OMO"
+  ],
+  "key": {
+  
+    "A": {
+      "item": "nightsouls:miizealite_boots"
+    },
+    
+    "M": {
+      "item": "nightsouls:calamitous_miizealite_ingot"
+    },
+    
+    "P": {
+      "item": "nightsouls:purple_power_moon"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    },
+    
+    "O": {
+      "item": "nightsouls:hellstone"
+    }
+  },
+  "result": {
+    "item": "nightsouls:hellfire_emperor_boots"
+  }
+}

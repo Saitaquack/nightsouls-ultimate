@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "nightsouls:frostburn",
+      "nightsouls:divine_sanction",
+      "nightsouls:hallowed_paladin_helmet",
+      "nightsouls:hallowed_paladin_chestplate",
+      "nightsouls:hallowed_paladin_leggings",
+      "nightsouls:hallowed_paladin_boots",  
+      "nightsouls:crane_final_music_disc"
+    ]
+  },
+  "criteria": {
+    "has_ultimate_cranite_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "nightsouls:ultimate_cranite_ingot"
+          }
+        ]
+      }
+   
+     }
+   }
+ },
+ "requirements": [
+    [
+      "has_ultimate_cranite_ingot",
+    ]
+  ]
+}

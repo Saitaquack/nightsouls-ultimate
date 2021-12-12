@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "VSV",
+    "TMT" 
+  ],
+  "key": {
+  
+    "S": {
+      "item": "nightsouls:stone_mask"
+    },
+    
+    "M": {
+      "item": "nightsouls:moon_charm"
+    },
+    
+    "V": {
+      "item": "nightsouls:villager_blood"
+    },
+    
+    "T": {
+      "item": "nightsouls:bat_tooth"
+    },
+    
+    "D": {
+      "item": "minecraft:diamond_block"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:vampire_mask"
+  }
+}
